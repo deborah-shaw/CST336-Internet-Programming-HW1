@@ -1,0 +1,68 @@
+html {
+    height: 100%;
+    width: 100%;
+}
+
+body {
+    background-color: #1A1110;  /* Licorice */
+    color: pink;
+}
+
+header, main, footer {
+    text-align: center;
+}
+
+div.parent-container {
+    display: flex;
+    justify-content: center;
+}
+
+section {
+    width: 700px;
+    margin: 0 auto;
+    text-align: left;
+    color: white;
+    box-shadow: 15px 15px 50px rgba(255, 192, 203, 0.3);    /* horizontal, vertical, blur */
+    border-radius: 20px;
+}
+
+a {
+    text-decoration: none;
+    color: skyblue;
+}
+
+div figure a img:hover {
+    transform: scale(1.1);  /* Enlarge the image by 10% */
+    transition: 0.5s;
+}
+
+h1 {
+    font-family: "Roboto Slab", serif;
+    font-size: 3em;
+    margin-bottom: 0px;
+    background: linear-gradient(45deg, #ff69b4 30%, #8a2be2 50%, #1e90ff);
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+}
+
+footer {
+    opacity: 0.75;
+    font-size: 13px;
+}
+
+img {
+    border-radius: 10px;
+}
+
+.darken {
+    filter: brightness (25%);
+}
+
+.darken-caption {
+    color: #9F8B8B;
+}
+
+.big-o {
+    color: yellow;
+}
