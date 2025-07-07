@@ -56,7 +56,7 @@ img {
 }
 
 .darken {
-    filter: brightness (25%);
+    filter: brightness(25%);
 }
 
 .darken-caption {
