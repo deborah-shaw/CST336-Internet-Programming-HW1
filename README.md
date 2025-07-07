@@ -46,7 +46,7 @@ To run this project locally:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/algorithms-for-beginners.git
+   git clone https://github.com/deborah-shaw/CST336-Internet-Programming-HW1.git
 
 2. Open the project folder:
 
