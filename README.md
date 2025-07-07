@@ -10,23 +10,21 @@ You can view the project locally by opening `index.html` in your browser.
 
 ## 📂 Project Structure
 
-algorithms-for-beginners/
-│
-├── index.html # Home page
-├── insertion.html # Insertion Sort page
-├── merge.html # Merge Sort page
-├── quick.html # Quick Sort page
-│
-├── css/
-│ └── styles.css # All styling for the website
-│
-├── img/
-│ ├── algorithm.jpg # Hero image
-│ ├── insertion.jpg # Insertion Sort image
-│ ├── merge.jpg # Merge Sort image
-│ ├── quick.jpg # Quick Sort image
-│ └── logo.jpg # OtterAcademy logo
-
+```text
+📦 algorithms-for-beginners/
+ ┣ 📁 css/
+ ┃ ┗ 📄 styles.css         # 🎨 All styling for the website
+ ┣ 📁 img/
+ ┃ ┣ 📄 algorithm.jpg      # 🧠 Hero image
+ ┃ ┣ 📄 insertion.jpg      # 🔢 Insertion Sort image
+ ┃ ┣ 📄 merge.jpg          # 🪢 Merge Sort image
+ ┃ ┣ 📄 quick.jpg          # 🚀 Quick Sort image
+ ┃ ┗ 📄 logo.jpg           # 🏫 OtterAcademy logo
+ ┣ 📄 index.html           # 🏠 Home page
+ ┣ 📄 insertion.html       # 📌 Insertion Sort page
+ ┣ 📄 merge.html           # 🧩 Merge Sort page
+ ┗ 📄 quick.html           # ⚡ Quick Sort page
+```
 
 ## 🛠️ Technologies Used
 
@@ -52,7 +50,7 @@ To run this project locally:
 
 2. Open the project folder:
 
-cd algorithms-for-beginners
+    cd algorithms-for-beginners
 
 3. Open `index.html` with your preferred browser.
 
